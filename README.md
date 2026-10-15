@@ -1,4 +1,4 @@
-# CodeAlpha_Task1_Language_Translation_Tool
+# IBM INTERNSHIP PROJECT
 
 ##  Project Title
 
@@ -6,7 +6,6 @@ Language Translation Tool using Python and Streamlit
 
 ##  Project Description
 
-This project is developed as part of the **CodeAlpha Artificial Intelligence Internship**.
 
 The Language Translation Tool allows users to enter text, select a source language, choose a target language, and translate the text instantly. The project uses a translation API/library to process the input text and display the translated output clearly on the screen.
 
@@ -130,8 +129,5 @@ Screenshot 2026-06-13 105526.png
 ```
 ##  Author
 
-**Dheeraj Sai Kommuri**
+**Devara Dhanush**
 
-##  Internship
-
-**CodeAlpha Artificial Intelligence Internship**
